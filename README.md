@@ -1,5 +1,5 @@
 # TEXT CLASSIFICATION WITH BERT
-Text Classification using BERT Framework
+Text Classification using BERT Framework. This was an assignment of a course I am studying called 'Medical Text Mining', which I have taken in my Master's degree.
 
 
 
